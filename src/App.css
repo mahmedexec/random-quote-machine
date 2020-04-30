@@ -1,7 +1,25 @@
 .App {
   text-align: center;
 }
+#tweet-quote{
+  color: white;
+  text-decoration: none;
+}
 
+.btn{
+margin: 2vh;
+}
+#quote-box{
+
+}
+#new-quote{
+  border: 1px solid black;
+
+}
+#new-quote:hover{
+  background-color: #000;
+  color: white;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
